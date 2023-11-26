@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWASM_Tailwind", "BlazorWASM_Tailwind\BlazorWASM_Tailwind.csproj", "{CE2CA760-0D3E-4BA9-BDD0-62222B770745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE2CA760-0D3E-4BA9-BDD0-62222B770745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2CA760-0D3E-4BA9-BDD0-62222B770745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2CA760-0D3E-4BA9-BDD0-62222B770745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2CA760-0D3E-4BA9-BDD0-62222B770745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F74A9780-60C1-4E4B-A205-48E91128F242}
+	EndGlobalSection
+EndGlobal
